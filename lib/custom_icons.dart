@@ -19,8 +19,8 @@ import 'package:flutter/widgets.dart';
 class CustomIcons {
   CustomIcons._();
   
-  static const IconData arron_down = const _CustomIconData(0xe800);
-  static const IconData basket_1 = const _CustomIconData(0xe801);
+  static const IconData basket = const _CustomIconData(0xe800);
+  static const IconData arrow_down = const _CustomIconData(0xe801);
   static const IconData burger = const _CustomIconData(0xe809);
   static const IconData credit_cart = const _CustomIconData(0xe80a);
   static const IconData cupcake = const _CustomIconData(0xe80b);
